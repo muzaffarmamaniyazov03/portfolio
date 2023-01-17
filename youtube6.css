@@ -83,6 +83,24 @@ a{
     }
 }
 
+@media(max-width:830px){
+    .accaunt{
+        font-size: 30px;
+        
+    }
+}
+@media(max-width:600px){
+    .accaunt{
+        font-size: 25px;
+        
+    }
+}
+@media(max-width:480px){
+    .accaunt{
+        font-size: 20px;
+        
+    }
+}
 @media(max-width:500px){
     body .container .text-1{
         font-size: 40px;
@@ -99,6 +117,13 @@ a{
         font-size: 30px;
     }
 }
+@media(max-width:400px){
+    .accaunt{
+        font-size: 18px;
+        
+    }
+   
+}
 @media(max-width:364px){
     body .container .text-1{
         font-size: 30px;
@@ -111,8 +136,19 @@ a{
     nav a{
         font-size: 20px;
     }
-   
+    .accaunt{
+        font-size: 16px;
+        
+    }
 }
+@media(max-width:320px){
+
+    .accaunt{
+        font-size: 14px;
+        
+    }
+}
+
 @media(max-width:296px){
     body .container .text-1{
         font-size: 25px;

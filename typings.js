@@ -21,8 +21,8 @@ class Typing {
 }
 
 
-// new Typing({
-//     el: ".info__text",
-//     interval: 100,
-//     delay: 500
-// })
+new Typing({
+    el: ".info__text",
+    interval: 100,
+    delay: 500
+})
